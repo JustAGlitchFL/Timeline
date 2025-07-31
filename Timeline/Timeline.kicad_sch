@@ -2303,6 +2303,10 @@
 		(uuid "ccddbb17-b75b-461d-b965-fd20c9ea20fd")
 	)
 	(no_connect
+		(at 264.16 83.82)
+		(uuid "f3930be1-960f-4ce1-9ec9-bed8034233a3")
+	)
+	(no_connect
 		(at 246.38 38.1)
 		(uuid "fcce9664-abde-4988-82bd-0de64fce8279")
 	)
@@ -3688,7 +3692,7 @@
 			)
 		)
 	)
-	(global_label "c10"
+	(global_label "c12"
 		(shape input)
 		(at 191.77 80.01 90)
 		(fields_autoplaced yes)
@@ -5034,7 +5038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 88.9 58.42 0)
 			(effects
 				(font
@@ -5104,7 +5108,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 55.88 118.11 0)
 			(effects
 				(font
@@ -5192,7 +5196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:RaspberryPi_Pico_Common_SMD"
+		(property "Footprint" "modded prints:RaspberryPi_Pico_Common_SMD noantenna"
 			(at 241.3 123.19 0)
 			(effects
 				(font
@@ -5443,7 +5447,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 55.88 67.31 0)
 			(effects
 				(font
@@ -5529,7 +5533,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 25.4 109.22 0)
 			(effects
 				(font
@@ -5597,7 +5601,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 88.9 20.32 0)
 			(effects
 				(font
@@ -5665,7 +5669,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 101.6 109.22 0)
 			(effects
 				(font
@@ -5735,7 +5739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 55.88 130.81 0)
 			(effects
 				(font
@@ -5823,7 +5827,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 191.77 88.9 0)
 			(effects
 				(font
@@ -5909,7 +5913,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 38.1 109.22 0)
 			(effects
 				(font
@@ -5977,7 +5981,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 45.72 0)
 			(effects
 				(font
@@ -6047,7 +6051,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 55.88 29.21 0)
 			(effects
 				(font
@@ -6135,7 +6139,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 81.28 118.11 0)
 			(effects
 				(font
@@ -6221,7 +6225,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 25.4 20.32 0)
 			(effects
 				(font
@@ -6289,7 +6293,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u"
 			(at 95.25 121.92 0)
 			(effects
 				(font
@@ -6357,7 +6361,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 114.3 45.72 0)
 			(effects
 				(font
@@ -6427,7 +6431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 54.61 0)
 			(effects
 				(font
@@ -6515,7 +6519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 29.21 0)
 			(effects
 				(font
@@ -6603,7 +6607,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 30.48 130.81 0)
 			(effects
 				(font
@@ -6691,7 +6695,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 106.68 105.41 0)
 			(effects
 				(font
@@ -6777,7 +6781,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 25.4 96.52 0)
 			(effects
 				(font
@@ -6845,7 +6849,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 38.1 58.42 0)
 			(effects
 				(font
@@ -6915,7 +6919,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 67.31 0)
 			(effects
 				(font
@@ -7001,7 +7005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 180.34 78.486 0)
 			(effects
 				(font
@@ -7078,7 +7082,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 88.9 96.52 0)
 			(effects
 				(font
@@ -7148,7 +7152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 119.38 67.31 0)
 			(effects
 				(font
@@ -7236,7 +7240,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 49.53 92.71 0)
 			(effects
 				(font
@@ -7324,7 +7328,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 93.98 118.11 0)
 			(effects
 				(font
@@ -7412,7 +7416,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 176.53 67.31 0)
 			(effects
 				(font
@@ -7498,7 +7502,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 20.32 0)
 			(effects
 				(font
@@ -7633,7 +7637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 50.8 109.22 0)
 			(effects
 				(font
@@ -7703,7 +7707,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 93.98 67.31 0)
 			(effects
 				(font
@@ -7791,7 +7795,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 68.58 29.21 0)
 			(effects
 				(font
@@ -7879,7 +7883,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -7967,7 +7971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 30.48 54.61 0)
 			(effects
 				(font
@@ -8053,7 +8057,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 114.3 83.82 0)
 			(effects
 				(font
@@ -8121,7 +8125,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 114.3 20.32 0)
 			(effects
 				(font
@@ -8189,7 +8193,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 154.94 103.886 0)
 			(effects
 				(font
@@ -8268,7 +8272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 157.48 54.61 0)
 			(effects
 				(font
@@ -8356,7 +8360,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 140.97 88.9 0)
 			(effects
 				(font
@@ -8442,7 +8446,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 158.75 58.42 0)
 			(effects
 				(font
@@ -8510,7 +8514,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 114.3 109.22 0)
 			(effects
 				(font
@@ -8580,7 +8584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 170.18 29.21 0)
 			(effects
 				(font
@@ -8668,7 +8672,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 106.68 54.61 0)
 			(effects
 				(font
@@ -8756,7 +8760,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 81.28 67.31 0)
 			(effects
 				(font
@@ -8842,7 +8846,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 50.8 45.72 0)
 			(effects
 				(font
@@ -8912,7 +8916,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 30.48 67.31 0)
 			(effects
 				(font
@@ -8998,7 +9002,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 25.4 121.92 0)
 			(effects
 				(font
@@ -9068,7 +9072,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 106.68 29.21 0)
 			(effects
 				(font
@@ -9154,7 +9158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 38.1 45.72 0)
 			(effects
 				(font
@@ -9224,7 +9228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 36.83 92.71 0)
 			(effects
 				(font
@@ -9312,7 +9316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 119.38 118.11 0)
 			(effects
 				(font
@@ -9400,7 +9404,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 132.08 29.21 0)
 			(effects
 				(font
@@ -9486,7 +9490,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 146.05 58.42 0)
 			(effects
 				(font
@@ -9554,7 +9558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 83.82 0)
 			(effects
 				(font
@@ -9624,7 +9628,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 170.18 54.61 0)
 			(effects
 				(font
@@ -9710,7 +9714,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 63.5 20.32 0)
 			(effects
 				(font
@@ -9778,7 +9782,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 50.8 58.42 0)
 			(effects
 				(font
@@ -9848,7 +9852,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 93.98 29.21 0)
 			(effects
 				(font
@@ -9936,7 +9940,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 55.88 105.41 0)
 			(effects
 				(font
@@ -10024,7 +10028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 106.68 67.31 0)
 			(effects
 				(font
@@ -10110,7 +10114,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 165.1 20.32 0)
 			(effects
 				(font
@@ -10178,7 +10182,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 139.7 20.32 0)
 			(effects
 				(font
@@ -10246,7 +10250,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 127 20.32 0)
 			(effects
 				(font
@@ -10314,7 +10318,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 101.6 58.42 0)
 			(effects
 				(font
@@ -10384,7 +10388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 81.28 105.41 0)
 			(effects
 				(font
@@ -10470,7 +10474,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 101.6 45.72 0)
 			(effects
 				(font
@@ -10538,7 +10542,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 38.1 96.52 0)
 			(effects
 				(font
@@ -10608,7 +10612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 118.11 0)
 			(effects
 				(font
@@ -10696,7 +10700,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 105.41 0)
 			(effects
 				(font
@@ -10782,7 +10786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 114.3 58.42 0)
 			(effects
 				(font
@@ -10850,7 +10854,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 25.4 45.72 0)
 			(effects
 				(font
@@ -10918,7 +10922,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 88.9 109.22 0)
 			(effects
 				(font
@@ -10986,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 			(at 31.75 83.82 0)
 			(effects
 				(font
@@ -11056,7 +11060,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 106.68 92.71 0)
 			(effects
 				(font
@@ -11142,7 +11146,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 50.8 96.52 0)
 			(effects
 				(font
@@ -11212,7 +11216,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 151.13 67.31 0)
 			(effects
 				(font
@@ -11300,7 +11304,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 43.18 130.81 0)
 			(effects
 				(font
@@ -11386,7 +11390,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 88.9 83.82 0)
 			(effects
 				(font
@@ -11456,7 +11460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 106.68 118.11 0)
 			(effects
 				(font
@@ -11544,7 +11548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 157.48 29.21 0)
 			(effects
 				(font
@@ -11697,7 +11701,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 38.1 20.32 0)
 			(effects
 				(font
@@ -11900,7 +11904,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 30.48 29.21 0)
 			(effects
 				(font
@@ -11986,7 +11990,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 171.45 58.42 0)
 			(effects
 				(font
@@ -12056,7 +12060,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 119.38 29.21 0)
 			(effects
 				(font
@@ -12144,7 +12148,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 81.28 92.71 0)
 			(effects
 				(font
@@ -12232,7 +12236,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 119.38 92.71 0)
 			(effects
 				(font
@@ -12320,7 +12324,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 100.33 130.81 0)
 			(effects
 				(font
@@ -12406,7 +12410,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 			(at 152.4 45.72 0)
 			(effects
 				(font
@@ -12474,7 +12478,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 109.22 0)
 			(effects
 				(font
@@ -12542,7 +12546,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical"
 			(at 157.734 95.25 0)
 			(effects
 				(font
@@ -12610,7 +12614,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 			(at 129.54 78.486 0)
 			(effects
 				(font
@@ -12689,7 +12693,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 119.38 54.61 0)
 			(effects
 				(font
@@ -12775,7 +12779,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 58.42 0)
 			(effects
 				(font
@@ -12845,7 +12849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 93.98 92.71 0)
 			(effects
 				(font
@@ -12933,7 +12937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 163.83 67.31 0)
 			(effects
 				(font
@@ -13019,7 +13023,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 88.9 45.72 0)
 			(effects
 				(font
@@ -13089,7 +13093,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 30.48 118.11 0)
 			(effects
 				(font
@@ -13175,7 +13179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 114.3 96.52 0)
 			(effects
 				(font
@@ -13245,7 +13249,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 144.78 29.21 0)
 			(effects
 				(font
@@ -13333,7 +13337,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 93.98 105.41 0)
 			(effects
 				(font
@@ -13421,7 +13425,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 30.48 105.41 0)
 			(effects
 				(font
@@ -13507,7 +13511,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 50.8 121.92 0)
 			(effects
 				(font
@@ -13575,7 +13579,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 38.1 121.92 0)
 			(effects
 				(font
@@ -13643,7 +13647,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 76.2 96.52 0)
 			(effects
 				(font
@@ -13711,7 +13715,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 101.6 96.52 0)
 			(effects
 				(font
@@ -13781,7 +13785,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 81.28 54.61 0)
 			(effects
 				(font
@@ -13867,7 +13871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 101.6 83.82 0)
 			(effects
 				(font
@@ -13935,7 +13939,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 152.4 20.32 0)
 			(effects
 				(font
@@ -14003,7 +14007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 50.8 20.32 0)
 			(effects
 				(font
@@ -14073,7 +14077,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 166.37 114.3 0)
 			(effects
 				(font
@@ -14159,7 +14163,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 			(at 44.45 83.82 0)
 			(effects
 				(font
@@ -14229,7 +14233,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 119.38 105.41 0)
 			(effects
 				(font
@@ -14317,7 +14321,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 55.88 54.61 0)
 			(effects
 				(font
@@ -14403,7 +14407,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 101.6 20.32 0)
 			(effects
 				(font
@@ -14473,7 +14477,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 93.98 54.61 0)
 			(effects
 				(font
@@ -14559,7 +14563,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.50u"
 			(at 165.1 45.72 0)
 			(effects
 				(font
@@ -14627,7 +14631,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
 			(at 25.4 58.42 0)
 			(effects
 				(font
